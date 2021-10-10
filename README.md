@@ -1,5 +1,7 @@
 # PyQt5 Calculator
 
+![Screen](https://github.com/satrianivzla/pyqt5-calculator/blob/main/screen.png)
+
 This is a repository from the final Python code from a Free Course with Certicate that you can find in **[BitDegree](https://stude.co/1137046/python-calculator  "BitDegree")**
 
 The course was made by **Dhhyey Desai** and is a 7 lesson lenght where you will end having a cool basic calculator build using PyQt5
